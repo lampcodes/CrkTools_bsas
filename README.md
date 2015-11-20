@@ -1,2 +1,2 @@
 # CrkTools_bsas
-crktools para soleil!
+CrkTools for soleil
